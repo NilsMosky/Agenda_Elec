@@ -1,0 +1,10 @@
+C:\Users\josej\source\repos\Agenda_Elec\Agenda_Elec\bin\Debug\Agenda_Elec.exe.config
+C:\Users\josej\source\repos\Agenda_Elec\Agenda_Elec\bin\Debug\Agenda_Elec.exe
+C:\Users\josej\source\repos\Agenda_Elec\Agenda_Elec\bin\Debug\Agenda_Elec.pdb
+C:\Users\josej\source\repos\Agenda_Elec\Agenda_Elec\obj\Debug\Agenda_Elec.csproj.AssemblyReference.cache
+C:\Users\josej\source\repos\Agenda_Elec\Agenda_Elec\obj\Debug\Agenda_Elec.Form1.resources
+C:\Users\josej\source\repos\Agenda_Elec\Agenda_Elec\obj\Debug\Agenda_Elec.Properties.Resources.resources
+C:\Users\josej\source\repos\Agenda_Elec\Agenda_Elec\obj\Debug\Agenda_Elec.csproj.GenerateResource.cache
+C:\Users\josej\source\repos\Agenda_Elec\Agenda_Elec\obj\Debug\Agenda_Elec.csproj.CoreCompileInputs.cache
+C:\Users\josej\source\repos\Agenda_Elec\Agenda_Elec\obj\Debug\Agenda_Elec.exe
+C:\Users\josej\source\repos\Agenda_Elec\Agenda_Elec\obj\Debug\Agenda_Elec.pdb
